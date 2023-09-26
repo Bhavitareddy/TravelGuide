@@ -19,7 +19,7 @@
   display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
-  life-style-type: none;
+  list-style-type: none;
   padding: 0px;
 }
 .position {
