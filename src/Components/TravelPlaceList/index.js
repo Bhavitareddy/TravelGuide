@@ -1,6 +1,6 @@
 import './index.css'
 
-const TravelPlacesList = props => {
+const TravelPlaceList = props => {
   const {eachPlace} = props
   const {name, description, imageUrl} = eachPlace
   return (
@@ -11,4 +11,4 @@ const TravelPlacesList = props => {
     </li>
   )
 }
-export default TravelPlacesList
+export default TravelPlaceList
